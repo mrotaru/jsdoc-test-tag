@@ -1,0 +1,15 @@
+{
+  "name": "jsdoc-test",
+  "version": "0.0.1",
+  "description": "Find and run tests embedded in jsdoc commets",
+  "main": "index.js",
+  "dependencies": {
+    "jsdoc": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
